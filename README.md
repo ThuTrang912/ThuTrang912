@@ -101,7 +101,7 @@
 
 ## Github Stats
 <div class="container">
-        <img src="https://github-readme-stats.vercel.app/api?username=ThuTrang&show_icons=true&count_private=true&hide_border=true" class="item" />
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=ThuTrang&show_icons=true&count_private=true&hide_border=true" class="item" /> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuTrang912&hide_border=true&layout=compact" class="item" />
 </div>
 
