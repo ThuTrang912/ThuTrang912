@@ -9,7 +9,10 @@
 - 🔭 I am currently free to undertake projects that cater to my academic and personal interests, allowing me to accumulate and practice the knowledge I've acquired at school.  
   
 
-- 🌱 I'm currently learning about YOLOv5, developed by Ultralytics.  
+- 🌱 I'm currently learning about:    + YOLOv5, developed by Ultralytics.
+                                       + Build, share, and run applications by Docker
+
+ 
   
 
 <br/>  
